@@ -12,10 +12,4 @@ import org.testng.annotations.Test;
         System.out.println("web");
         Assert.assertEquals("2", "2");
     }
-
-    @Test()
-    public void first(){
-        System.out.println("web");
-        Assert.assertEquals("2", "1");
-    }
 }

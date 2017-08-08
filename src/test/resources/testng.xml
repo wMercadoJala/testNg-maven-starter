@@ -8,4 +8,9 @@
             <class name="samples.SampleTest" />
         </classes>
     </test>
+    <test name="first">
+        <classes>
+            <class name="samples.SecondTest" />
+        </classes>
+    </test>
 </suite>
