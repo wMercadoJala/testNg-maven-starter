@@ -27,10 +27,10 @@
                         <parallel>classes</parallel>
                         <threadCount>4</threadCount>
 
-                        <groups>db</groups>
-                        <!--<suiteXmlFiles>-->
-                            <!--<suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>-->
-                        <!--</suiteXmlFiles>-->
+                        <!--<groups>db</groups>-->
+                        <suiteXmlFiles>
+                            <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+                        </suiteXmlFiles>
                     </configuration>
                 </plugin>
             </plugins>
