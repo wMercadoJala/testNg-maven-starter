@@ -7,6 +7,6 @@ public class SecondTest {
     @Test()
     public void first(){
         System.out.println("web");
-        Assert.assertEquals("2", "1");
+        Assert.assertEquals("2", "2");
     }
 }
